@@ -2,6 +2,9 @@
 <html>
 <body>
 <h1> Super Mario Galaxy 2</h1>
-<img src="subfolder/SMG2.jpeg" alt="Nintendo.com" width="1000" height="1000">
+<img src="subfolder/SMG2.jpeg" alt="Super Mario Galaxy 2 Image" width="1000" height="1000">
+</body>
+<body>
+<a href="https://www.nintendo.com/en-ca/store/products/super-mario-galaxy-2-switch/?srsltid=AfmBOorjBDZKOgwA_1DxTjiPA1ortNK7O90WytfXXJpblDQzMw-dct6y">Buy Super Mario Galaxy 2!
 </body>
 </html>
